@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>nz.ac.auckland.lmz</groupId>
 	<artifactId>lmz-controlpanel</artifactId>
-	<version>3.2-SNAPSHOT</version>
+	<version>3.2</version>
 	<packaging>jar</packaging>
 	<name>lmz-controlpanel</name>
 	<description>
@@ -34,4 +34,8 @@
 			</plugin>
 		</plugins>
 	</build>
+
+  <scm>
+    <tag>lmz-controlpanel-3.2</tag>
+  </scm>
 </project>
